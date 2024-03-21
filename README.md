@@ -24,7 +24,6 @@ dataset v3.1.0. [access date]
 
 ## Summary
 
----
 This data package is a component of the Hakai Institute’s Nearshore research 
 and monitoring program. The overarching objective of Hakai Nearshore research 
 is to investigate the role of habitats and their associated communities, in the
