@@ -1,1 +1,15 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+fucus_point_intercepts-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+fucus_point_intercepts-surveys.csv,site_name,character,NA,Rocky intertidal site where survey was conducted
+fucus_point_intercepts-surveys.csv,recorder_sampler,character,NA,The individual(s) who conducted the survey
+fucus_point_intercepts-surveys.csv,plot,numeric,NA,Permanent plot areas (marked by bolts) defining five plots for each substrate at each site. Each plot area measures 75cm x 50 cm
+fucus_point_intercepts-surveys.csv,total_intercepts_counted,numeric,NA,The number of point intercepts counted in the plot area
+fucus_point_intercepts-surveys.csv,grid_column,numeric,NA,The column position (1-10) of the observed point intercept
+fucus_point_intercepts-surveys.csv,grid_row,numeric,NA,The row position (1-10) of the observed point intercept
+fucus_point_intercepts-surveys.csv,overstory_scientific_name,character,NA,The taxon forming the overstory at the observed point intercept
+fucus_point_intercepts-surveys.csv,overstory_description,character,NA,Descriptive name of taxon forming the overstory at the observed point intercept
+fucus_point_intercepts-surveys.csv,understory_scientific_name,character,NA,The taxon forming the understory at the observed point intercept
+fucus_point_intercepts-surveys.csv,understory_description,character,NA,Descriptive name of taxon forming the understory at the observed point intercept
+fucus_point_intercepts-surveys.csv,entered_by,character,NA,The individual(s) who entered the data
+fucus_point_intercepts-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
+fucus_point_intercepts-surveys.csv,notes,character,NA,Records anything of note about a given observation
