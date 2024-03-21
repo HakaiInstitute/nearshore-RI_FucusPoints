@@ -1,4 +1,4 @@
-# hakai-dataset-repository-template
+# Fucus Dynamics: Point Intercepts
 
 <div float="left">
 <img src=docs/logos/tula-logo.png />
