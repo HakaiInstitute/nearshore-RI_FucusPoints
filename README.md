@@ -17,9 +17,9 @@ and/or collaborate with Hakai Nearshore researchers if you are considering
 using this dataset for manuscripts or other forms of reporting.
 
 ```
-Froese,T.,Gehman, A. Hessing-Lewis, M., and Sadlier-Brown, G. (2023). Fucus 
-point intercept survey data from the BC Central Coast, 2016-2023. Hakai Institute 
-dataset v3.1.0. [access date]
+Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., & Gehman, A. (2023). 
+Fucus Dynamics: Point Intercept Surveys - BC Central Coast (v3.1.0) 
+[Data set]. https://doi.org/10.21966/v57r-g944
 ```
 
 ## Summary
